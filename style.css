@@ -1,1 +1,29 @@
-
+header{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 3px;
+}
+main{
+    color: aliceblue;
+    background-color: black;
+}
+.uy{
+    background-color: blue;
+    color: cornsilk;
+    text-align: center;
+}
+.ui{
+    float: left;
+    width: 150px;
+    padding: 10px;
+    border: 5px double black;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    background-color: black;
+}
+footer{
+    background-color: black;
+}
